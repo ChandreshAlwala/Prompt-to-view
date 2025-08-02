@@ -1,0 +1,185 @@
+[
+  {
+    "prompt": "Create Menu with 3 items",
+    "components": [
+      "label:Item 1",
+      "entry:Item 1",
+      "label:Item 2",
+      "entry:Item 2",
+      "label:Item 3",
+      "entry:Item 3",
+      "button:Calculate Total",
+      "label:Total"
+    ],
+    "score": 0
+  },
+  {
+    "prompt": "Create Menu with 3 items",
+    "components": [
+      "label:Item 1",
+      "entry:Item 1",
+      "label:Item 2",
+      "entry:Item 2",
+      "label:Item 3",
+      "entry:Item 3",
+      "button:Calculate Total",
+      "label:Total"
+    ],
+    "score": 0
+  },
+  {
+    "prompt": "menu",
+    "components": [
+      "label:Item 1",
+      "entry:Item 1",
+      "label:Item 2",
+      "entry:Item 2",
+      "label:Item 3",
+      "entry:Item 3",
+      "button:Calculate Total",
+      "label:Total"
+    ],
+    "score": 0
+  },
+  {
+    "prompt": "login",
+    "components": [
+      "label:Name",
+      "entry:Name",
+      "label:Password",
+      "entry:Password",
+      "button:Login"
+    ],
+    "score": 1
+  },
+  {
+    "prompt": "contact",
+    "components": [],
+    "score": 0
+  },
+  {
+    "prompt": "contact card",
+    "components": [
+      "label:Name",
+      "entry:Name",
+      "label:Phone",
+      "entry:Phone",
+      "label:Email",
+      "entry:Email",
+      "button:Save"
+    ],
+    "score": 1
+  },
+  {
+    "prompt": "menu for 4 items",
+    "components": [
+      "label:Item 1",
+      "entry:Item 1",
+      "label:Item 2",
+      "entry:Item 2",
+      "label:Item 3",
+      "entry:Item 3",
+      "button:Calculate Total",
+      "label:Total"
+    ],
+    "score": 0
+  },
+  {
+    "prompt": "Login",
+    "components": [
+      "label:Name",
+      "entry:Name",
+      "label:Password",
+      "entry:Password",
+      "button:Login"
+    ],
+    "score": 0
+  },
+  {
+    "prompt": "Login",
+    "components": [
+      "label:Name",
+      "entry:Name",
+      "label:Password",
+      "entry:Password",
+      "button:Login"
+    ],
+    "score": 0
+  },
+  {
+    "prompt": "Menu",
+    "components": [
+      "label:Item 1",
+      "entry:Item 1",
+      "label:Item 2",
+      "entry:Item 2",
+      "label:Item 3",
+      "entry:Item 3",
+      "button:Calculate Total",
+      "label:Total"
+    ],
+    "score": 0
+  },
+  {
+    "prompt": "Create a login page",
+    "components": [
+      "label:Name",
+      "entry:Name",
+      "label:Password",
+      "entry:Password",
+      "button:Login"
+    ],
+    "score": 1
+  },
+  {
+    "prompt": "Create a login page",
+    "components": [
+      "label:Name",
+      "entry:Name",
+      "label:Password",
+      "entry:Password",
+      "button:Login"
+    ],
+    "score": 1
+  },
+  {
+    "prompt": "Create a login page",
+    "components": [
+      "label:Name",
+      "entry:Name",
+      "label:Password",
+      "entry:Password",
+      "button:Login"
+    ],
+    "score": 1,
+    "user_rating": 3
+  },
+  {
+    "prompt": "create a contact card",
+    "components": [
+      "label:Name",
+      "entry:Name",
+      "label:Phone",
+      "entry:Phone",
+      "label:Email",
+      "entry:Email",
+      "button:Save Contact"
+    ],
+    "score": 1,
+    "user_rating": 2
+  },
+  {
+    "prompt": "Create a contact card",
+    "components": [
+      "label:Name",
+      "entry:Name",
+      "label:Phone",
+      "entry:Phone",
+      "label:Email",
+      "entry:Email",
+      "button:Save Contact"
+    ],
+    "score": 1,
+    "user_rating": 4
+  }
+]
